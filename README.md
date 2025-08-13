@@ -1,5 +1,4 @@
 # 🎬 Lights, Data, Action: An Analysis of the Entertainment Landscape
-<img width="883" height="505" alt="image" src="https://github.com/user-attachments/assets/8dbcee9a-0f91-412b-b05c-3219dd654e44" />
 
 
 ## 📊 Overview
